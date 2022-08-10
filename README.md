@@ -36,11 +36,12 @@
     <img src="https://avatars.mds.yandex.net/get-zen_doc/1101877/pub_5c000b567c07c400ac59fa08_5c000ba45f954700aa322d40/scale_1200" height="64"/>
     <img src="https://meshworld.in/blog/how-to/install-postman-native-app-in-ubuntu/featured.png" height="64"/>
     <img src="https://blog.skillfactory.ru/wp-content/uploads/2022/01/vertical-logo-monochromatic-2822952.png" height="64"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/1200px-GNU_Compiler_Collection_logo.svg.png" height="64">
-    <img src="https://uploads-ssl.webflow.com/5bd9524d557faec7e44b1f7a/5c10e96bd43b9263ba3ef04d_CMake-Logo.png" height="64">
-    <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*0cT0thipKJ1obKHbBkmfRg.png" height="64">
-    <img src="https://sdtimes.com/wp-content/uploads/2016/05/0517.sdt-gradle.png" height="64">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" height="64">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/1200px-GNU_Compiler_Collection_logo.svg.png" height="64"/>
+    <img src="https://uploads-ssl.webflow.com/5bd9524d557faec7e44b1f7a/5c10e96bd43b9263ba3ef04d_CMake-Logo.png" height="64"/>
+    <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*0cT0thipKJ1obKHbBkmfRg.png" height="64"/>
+    <img src="https://sdtimes.com/wp-content/uploads/2016/05/0517.sdt-gradle.png" height="64"/>
+    <img src="https://fuzeservers.ru/wp-content/uploads/6/d/a/6dafe75cc63aca205651e177e736d25f.png" height="64"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" height="64"/>
     WSL  
   </p>
 </h3>
