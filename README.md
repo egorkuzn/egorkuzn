@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hi there, I'm [Yegor Kuznetsov](https://t.me/egorkuzn2002)<img src="https://azardetdom.ru/telegram-logo.png" height="32"/>
+### Computer science student from Novosibirsk, Russia
+## Programming languages that I know:
+<p>
+  <img src="https://miro.medium.com/max/920/1*ati78IVpiHXC2o2CsYLBFw.jpeg" height="64"/>
+  <img src="https://lh4.googleusercontent.com/fXa3KflfI4r7h80Hbgn1T8xb6RHcBCRkS77jj6AIhqsVRWguP5sLjTgHaqkv1-MmgLt1hlxDYNp3aN2_uDZu0on_vDu9regY4hYFKtggyErSZs2zFpArLCKlA8lqX9QgWMtLSkWh" height="64"/>
+  <img src="https://careers.edicomgroup.com/wp-content/uploads/2020/06/java.jpg" height="80"/>
+</p>
 
-<!--
-**egorkuzn/egorkuzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frameworks:
+<p>  
+  <h3>Java:</h3>
+  <p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" height="64"/>
+    <img src="https://miro.medium.com/max/1400/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" height="64"/>
+    <img src="https://devby.io/storage/images/23/62/55/38/derived/67ac86a2e6a67b75860aa1ed4fd29ded.jpg" height="64"/>
+    <img src="https://www.javanibble.com/assets/images/feature-images/feature-image-lombok.png" height="64"/>
+    <img src="https://miro.medium.com/max/1400/1*C_u3RtbZnYzRI10IUWbPfg.png" height="64"/>
+  </p>
+  <h3>C++:</h3>
+  <p>
+    <img src="https://miro.medium.com/max/954/1*jtMH7veI20y5WdtSy-0QQg.png" height="64">
+    <img src="https://mms.businesswire.com/media/20161114006170/en/307885/22/OpenMPLogo-rgb.jpg" height="64"/>
+    <img src="https://miro.medium.com/max/904/1*gTTD0J8UGXH3gA7pSMLlqw.jpeg" height="80">
+  </p>
+</p>
 
-Here are some ideas to get you started:
+## Technologies for developing:
+<h3>
+  <p>
+    <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="64"/>
+    <img src="https://1000marche.net/wp-content/uploads/2021/10/Visual-Studio-Logo.png" height="64"/>
+    <img src="https://timeweb.com/media/default/0001/02/4cb38fa0a3aa59162d539d3d5ca7012afe455a6f.png" height="64"/>
+    <img src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo.png" height="64"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/1200px-Windows_Terminal_logo.svg.png" height="64">
+    <img src="https://avatars.mds.yandex.net/get-zen_doc/1101877/pub_5c000b567c07c400ac59fa08_5c000ba45f954700aa322d40/scale_1200" height="64">
+    WSL  
+  </p>
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other skills:
+- Reading/writing of assembly code x86-64 or ARM
+- Like to solve difficult problems
+- University math/physics knowledge
+- English B2+ level (officaily B1 Cambridge certificate)
