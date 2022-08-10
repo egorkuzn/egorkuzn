@@ -46,8 +46,19 @@
   </p>
 </h3>
 
+## Hobbies:
+- Running 🏃 
+- Cycling 🚴
+- Travelling 🏕 
+
 ## Other skills:
 - Reading/writing of assembly code x86-64 or ARM
 - Like to solve difficult problems
+- Parallel programming
 - University math/physics knowledge
 - English B2+ level (officaily B1 Cambridge certificate)
+
+## Plans
+- Successful getting graduate🎓 
+- Work in product company 👥 
+- Study, study, study 🤓
