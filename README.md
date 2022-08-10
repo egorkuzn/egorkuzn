@@ -40,6 +40,7 @@
     <img src="https://uploads-ssl.webflow.com/5bd9524d557faec7e44b1f7a/5c10e96bd43b9263ba3ef04d_CMake-Logo.png" height="64"/>
     <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*0cT0thipKJ1obKHbBkmfRg.png" height="64"/>
     <img src="https://sdtimes.com/wp-content/uploads/2016/05/0517.sdt-gradle.png" height="64"/>
+    <img src="https://kevindarmon.eu/img/sql.png" height="64">
     <img src="https://fuzeservers.ru/wp-content/uploads/6/d/a/6dafe75cc63aca205651e177e736d25f.png" height="64"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" height="64"/>
     WSL  
