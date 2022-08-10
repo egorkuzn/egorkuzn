@@ -1,4 +1,4 @@
-# Hi there, I'm Yegor Kuznetsov[<img src="https://azardetdom.ru/telegram-logo.png" height="32"/>](https://t.me/egorkuzn2002)
+# Hi there, I'm Yegor Kuznetsov[<img src="https://azardetdom.ru/telegram-logo.png" height="32"/>](https://t.me/egorkuzn2002)[<img src="https://loverust.ru/wp-content/uploads/2020/11/3f61e0c6c26a7efa236ded6679bm-aksessuary-detskaya-shapochka-dlya-malchika-44-46s-teplaya-sh.jpg" height="32"/>](https://twitter.com/egorkuzn2002)
 ### Computer science student from Novosibirsk, Russia
 ## Programming languages that I know:
 <p>
