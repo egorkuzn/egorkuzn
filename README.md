@@ -14,7 +14,9 @@
   <h3>Java:</h3>
   <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" height="64"/>
-    <img src="https://miro.medium.com/max/1400/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" height="64"/>
+    <a href="https://spring.io/">
+      <img src="https://miro.medium.com/max/1400/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" height="64"/>
+    </a>
     <img src="https://devby.io/storage/images/23/62/55/38/derived/67ac86a2e6a67b75860aa1ed4fd29ded.jpg" height="64"/>
     <img src="https://www.javanibble.com/assets/images/feature-images/feature-image-lombok.png" height="64"/>
     <img src="https://miro.medium.com/max/1400/1*C_u3RtbZnYzRI10IUWbPfg.png" height="64"/>
