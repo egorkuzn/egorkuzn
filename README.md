@@ -15,7 +15,7 @@
 - Travelling 🏕 
 
 ## Other skills:
-- Reading/writing of assembly code x86-64 or ARM
+- Reading/writing of assembly code x86-64, ARM and AVR microcontrollers
 - Like to solve difficult problems
 - Parallel programming
 - University math/physics knowledge
